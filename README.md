@@ -1,2 +1,2 @@
 # pong
-Paddle game using rust amethyst library
+Pong game using rust amethyst library
